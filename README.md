@@ -7,6 +7,8 @@ Screens:
 
 
 This app has 3 View Controllers: 
+
+
 1 - Travel Locations Map :
 Allows the user to drop pins around the world, You can also delete them later,
 
