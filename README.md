@@ -20,9 +20,14 @@ This app has 3 View Controllers:
 
 ### 1 - Travel Locations Map :
 Allows the user to drop pins around the world, You can also delete them later,
+![](https://github.com/Basmah-Faraj/virtual_tourist-Upgrade/blob/master/Screen%20Shot%202019-07-09%20at%202.02.25%20AM.png)
 
 ### 2- Photo Album View:
 Allows the users to download images to add to the album, select what they want to keep and delete the rest. 
+![](https://github.com/Basmah-Faraj/virtual_tourist-Upgrade/blob/master/Screen%20Shot%202019-07-09%20at%202.03.14%20AM.png)
 
 ### 3- Deleted Photo View:
 show recently removed photos for each photo Album
+
+![](https://github.com/Basmah-Faraj/virtual_tourist-Upgrade/blob/master/Screen%20Shot%202019-07-09%20at%202.03.35%20AM.png)
+
