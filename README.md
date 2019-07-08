@@ -21,9 +21,16 @@ Foobar is a Python library for dealing with word pluralization.
 This is the last [Udacity](https://www.udacity.com/course/ios-developer-nanodegree--nd003) project. This app allows users to select several  travel locations around the world, and create some photo albums based on the location. The locations and photo albums will be stored using Core Data.
 
 ## Requirement:
-* 
+Requirements to run this app
+Versions:
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+    Xcode 10+
+    Swift 4+
+
+Flickr API:
+
+To run this app you must connect to Flicer API. To do that you have to have your own fliker api Key. To configure it, you'll need to edit flikerAPI.swift file and change api_key to your own.  
+
 
 ```bash
 pip install foobar
